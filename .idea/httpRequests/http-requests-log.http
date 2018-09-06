@@ -1,0 +1,144 @@
+GET http://localhost:3000/events?query=[   {     "lat": 48.8759992,     "lon": 2.3481253,     "name": "Arc de triomphe"   },   {     "lat": 48.86,     "lon": 2.35,     "name": "Chatelet"   } ]
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-05T110903.200.json
+
+###
+
+GET http://localhost:3000/events?query=[   {     "lat": 48.8759992,     "lon": 2.3481253,     "name": "Arc de triomphe"   },   {     "lat": 48.86,     "lon": 2.35,     "name": "Chatelet"   } ]
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-05T110643.200.json
+
+###
+
+GET http://localhost:3000/events?query=[   {     "lat": 48.8759992,     "lon": 2.3481253,     "name": "Arc de triomphe"   },   {     "lat": 48.86,     "lon": 2.35,     "name": "Chatelet"   } ]
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-05T110628.200.json
+
+###
+
+GET http://localhost:3000/events?query=[   {     "lat": 48.8759992,     "lon": 2.3481253,     "name": "Arc de triomphe"   },   {     "lat": 48.86,     "lon": 2.35,     "name": "Chatelet"   } ]
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-05T110610.200.json
+
+###
+
+GET http://localhost:3000/events?query=[   {     "lat": 48.8759992,     "lon": 2.3481253,     "name": "Arc de triomphe"   },   {     "lat": 48.86,     "lon": 2.35,     "name": "Chatelet"   } ]
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-05T110523.200.json
+
+###
+
+GET http://localhost:3000/events?query=[   {     "lat": 48.8759992,     "lon": 2.3481253,     "name": "Arc de triomphe"   },   {     "lat": 48.86,     "lon": 2.35,     "name": "Chatelet"   } ]
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-05T110117.200.json
+
+###
+
+GET http://localhost:3000/events?query=[   {     "lat": 48.8759992,     "lon": 2.3481253,     "name": "Arc de triomphe"   },   {     "lat": 48.86,     "lon": 2.35,     "name": "Chatelet"   } ]
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:3000/events?query=[   {     "lat": 48.8759992,     "lon": 2.3481253,     "name": "Arc de triomphe"   },   {     "lat": 48.86,     "lon": 2.35,     "name": "Chatelet"   } ]
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:3000/events?query=[   {     "lat": 48.8759992,     "lon": 2.3481253,     "name": "Arc de triomphe"   },   {     "lat": 48.86,     "lon": 2.35,     "name": "Chatelet"   } ]
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-05T104511.200.json
+
+###
+
+GET http://localhost:3000/events?query=[   {     "lat": 48.8759992,     "lon": 2.3481253,     "name": "Arc de triomphe"   },   {     "lat": 48.86,     "lon": 2.35,     "name": "Chatelet"   } ]
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:3000/events?query=[   {     "lat": 48.8759992,     "lon": 2.3481253,     "name": "Arc de triomphe"   },   {     "lat": 48.86,     "lon": 2.35,     "name": "Chatelet"   } ]
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-05T103915.200.json
+
+###
+
+GET http://localhost:3000/events?query=[   {     "lat": 48.8759992,     "lon": 2.3481253,     "name": "Arc de triomphe"   },   {     "lat": 48.86,     "lon": 2.35,     "name": "Chatelet"   } ]
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:3000/events?query=[   {     "lat": 48.8759992,     "lon": 2.3481253,     "name": "Arc de triomphe"   },   {     "lat": 48.86,     "lon": 2.35,     "name": "Chatelet"   } ]
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:3000/events?query=[   {     "lat": 48.8759992,     "lon": 2.3481253,     "name": "Arc de triomphe"   },   {     "lat": 48.86,     "lon": 2.35,     "name": "Chatelet"   } ]
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:3000/events?query=[   {     "lat": 48.8759992,     "lon": 2.3481253,     "name": "Arc de triomphe"   },   {     "lat": 48.86,     "lon": 2.35,     "name": "Chatelet"   } ]
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:3000/events?query=[   {     "lat": 48.8759992,     "lon": 2.3481253,     "name": "Arc de triomphe"   },   {     "lat": 48.86,     "lon": 2.35,     "name": "Chatelet"   } ]
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:3000/events?query=[   {     "lat": 48.8759992,     "lon": 2.3481253,     "name": "Arc de triomphe"   },   {     "lat": 48.86,     "lon": 2.35,     "name": "Chatelet"   } ]
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-05T102437.200.json
+
+###
+
+GET http://localhost:3000/events?query=[   {     "lat": 48.8759992,     "lon": 2.3481253,     "name": "Arc de triomphe"   },   {     "lat": 48.86,     "lon": 2.35,     "name": "Chatelet"   } ]
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-05T102236.200.json
+
+###
+
+GET http://localhost:3000/events?query=[   {     "lat": 48.8759992,     "lon": 2.3481253,     "name": "Arc de triomphe"   },   {     "lat": 48.86,     "lon": 2.35,     "name": "Chatelet"   } ]
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-05T102134.200.json
+
+###
+
+GET http://localhost:3000/events?query=[   {     "lat": 48.8759992,     "lon": 2.3481253,     "name": "Arc de triomphe"   },   {     "lat": 48.86,     "lon": 2.35,     "name": "Chatelet"   } ]
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-05T100240.200.json
+
+###
+
